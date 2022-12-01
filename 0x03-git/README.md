@@ -1,2 +1,1 @@
-My second readme
-Congratulations to me🎉
+My second readme as a software engineer🎉
